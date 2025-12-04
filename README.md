@@ -4,24 +4,24 @@ An intelligent application helping small clothing exporters identify optimal int
 
 ## Features
 
-### 🎯 Market Opportunity Score (MOS)
+### Market Opportunity Score (MOS)
 - Weighted scoring system combining:
   - **40%** GDP per capita (purchasing power)
   - **20%** Literacy rate (education level)
   - **20%** Phones per 1000 (infrastructure)
   - **20%** Birthrate (children's market potential)
 
-### 🤖 Predictive Models
+### Predictive Models
 - **Linear Regression**: Predict GDP per capita based on economic indicators
 - **Logistic Regression**: Classify high-potential vs low-potential markets
 - Feature importance analysis and model evaluation metrics
 
-### 🔍 Smart Data Matching
+### Smart Data Matching
 - Fuzzy matching algorithm to handle country name variations
 - Intelligent merging of multiple data sources
 - >80% confidence threshold for data quality
 
-### 📊 Visualizations
+### Visualizations
 - Top markets bar charts
 - Regional distribution analysis
 - GDP prediction accuracy plots
